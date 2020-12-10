@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="network_not_available">Network not available</string>
+    <string name="error_something_went_wrong">Something when wrong</string>
+    <string name="welcome">Welcome %1$s,\n\nUserId: %2$s\n\nX-Acc: %3$s</string>
+</resources>
